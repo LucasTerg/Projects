@@ -1,0 +1,34 @@
+body,html {
+	height: 100%;
+	margin: 0;
+}
+
+.main-page-log {
+
+}
+
+.main-page {
+	width: 100%;
+	background-image: url('../img/Warszawa/main.jpg');
+	background-size: cover;
+	padding-bottom: 118px;
+	padding-top: 24px;
+}
+
+.main-page-kce {
+	width: 100%;
+	background-image: url('../img/Katowice/main.jpg');
+	background-size: cover;
+	padding-bottom: 118px;
+	padding-top: 24px;
+}
+
+.wrapper {
+    width: 1170px;
+    margin:auto;
+}
+
+.main-page-container {
+
+    
+}
