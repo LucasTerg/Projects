@@ -16,12 +16,12 @@ _Białystok_
 
 >
 
-### Lekcja 1
+### Lekcja 1 Projektujemy pierwszą część strony
 
 https://www.youtube.com/watch?v=uv4nRzALw6g
 https://youtu.be/uv4nRzALw6g
 
-### Lekcja 2
+### Lekcja 2 Kończymy projektowanie makietu
 
 https://www.youtube.com/watch?v=lUOm_VOUmaQ
 https://youtu.be/lUOm_VOUmaQ
@@ -31,10 +31,17 @@ https://youtu.be/lUOm_VOUmaQ
 https://www.youtube.com/watch?v=ES7CmDzPC2A
 https://youtu.be/ES7CmDzPC2A
 
-### Lekcja 3
+### Lekcja 3 Rozpoczynamy tworzenie strony internetowej
 
 https://www.youtube.com/watch?v=6-Zu0NZCd-I
 https://youtu.be/6-Zu0NZCd-I
+
+### Lekcja 4 Programowanie
+
+Dziś zakodujemy drugą stronę landing page i dodamy zabytki.
+
+https://www.youtube.com/watch?v=ZYkAqeeLS4g
+https://youtu.be/ZYkAqeeLS4g
 
 #### Materiały do pracy:
 
