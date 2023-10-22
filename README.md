@@ -43,6 +43,11 @@ Dziś zakodujemy drugą stronę landing page i dodamy zabytki.
 https://www.youtube.com/watch?v=ZYkAqeeLS4g
 https://youtu.be/ZYkAqeeLS4g
 
+### Analiza zadania domowego z 4. lekcji Programowania!
+
+https://www.youtube.com/watch?v=FAYkKZjejAU
+https://youtu.be/FAYkKZjejAU
+
 #### Materiały do pracy:
 
 https://drive.google.com/drive/folders/1YJYFk0_9nSsk0HEuITnihA3Y4X2kd8Gv
