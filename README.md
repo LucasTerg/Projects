@@ -48,6 +48,13 @@ https://youtu.be/ZYkAqeeLS4g
 https://www.youtube.com/watch?v=FAYkKZjejAU
 https://youtu.be/FAYkKZjejAU
 
+### Lekcja 5. Implementujemy stronę na hosting
+
+https://www.youtube.com/watch?v=d4IUcfrVZuQ 
+https://youtu.be/d4IUcfrVZuQ
+https://materials.goit.global/pl/form.js
+https://goit.notion.site/Instrukcja-Netlify-08f5ff6c184b4f12b4b1b6ca558285ee
+
 #### Materiały do pracy:
 
 https://drive.google.com/drive/folders/1YJYFk0_9nSsk0HEuITnihA3Y4X2kd8Gv

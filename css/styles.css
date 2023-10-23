@@ -109,7 +109,7 @@ html {
 .gallery-item-img {
 	width: 100%;
 	border-radius: 60px;
-    margin: 0;
+	margin: 0;
 }
 
 .gallery-item-text {
@@ -119,3 +119,59 @@ html {
 	letter-spacing: 0em;
 }
 /* ####GALLERYEND******************************** */
+
+.contacts-page {
+	background-color: #eff5fa;
+	padding-top: 80px;
+	padding-bottom: 80px;
+	text-align: center;
+}
+
+.contacts-page-title {
+	font-size: 64px;
+	font-weight: 600;
+	line-height: 64px;
+	letter-spacing: 0em;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 24px;
+}
+
+.contacts-page-description {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0em;
+	text-align: center;
+	width: 600px;
+	margin: auto;
+	margin-bottom: 60px;
+}
+
+.contacts-form {
+	width: 573px;
+	margin: auto;
+}
+
+.contacts-form-field {
+	display: flex;
+	flex-direction: column;
+	margin: auto;
+	width: 100%;
+	margin-bottom: 24px;
+}
+
+.contacts-form-field-input {
+	height: 60px;
+	width: 100%;
+	border-radius: 8px;
+	border: 1px solid #8bc4ff;
+	background-color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    padding: 0 8px;
+    box-sizing: border-box;
+}
+.contacts-form-textarea {
+}
