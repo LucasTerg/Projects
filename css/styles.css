@@ -167,11 +167,46 @@ html {
 	border-radius: 8px;
 	border: 1px solid #8bc4ff;
 	background-color: #fff;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
-    padding: 0 8px;
-    box-sizing: border-box;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	padding: 0 8px;
+	box-sizing: border-box;
 }
+
+.contacts-form-field-label {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0em;
+	text-align: left;
+    margin-bottom: 4px;
+    color: #1b1d1f;
+}
+
 .contacts-form-textarea {
+	height: 60px;
+	width: 100%;
+	border-radius: 8px;
+	border: 1px solid #8bc4ff;
+	background-color: #fff;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	padding: 8px;
+	box-sizing: border-box;
+	font-family: 'Montserrat', sans-serif;
+	min-height: 200px;
+}
+
+.contacts-form-btn {
+    background-color: #ff6b0a;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    padding: 12px 24px 12px 24px;
 }
